@@ -1,4 +1,3 @@
 <?php
-echo "Hl Word" ;
-echo "ola hcode" ;
+echo "ola mundo 123" ;echo "ola hcode" ;
 ?>
